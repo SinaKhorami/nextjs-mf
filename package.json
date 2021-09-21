@@ -1,0 +1,16 @@
+{
+  "name": "nextjs-mf",
+  "version": "0.0.1",
+  "description": "A Next.js Module Federation plugin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SinaKhorami/nextjs-mf.git"
+  },
+  "author": "Sina Khorami <sinakhorami94@gmail.com> (https://sinakhorami.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SinaKhorami/nextjs-mf/issues"
+  },
+  "homepage": "https://github.com/SinaKhorami/nextjs-mf#readme"
+}
